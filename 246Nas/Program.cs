@@ -42,7 +42,7 @@
             {
                 Console.WriteLine(s.ShowStudent());
             }
-
+            //
             List<Person> people = new List<Person>();
             people.Add(student);
             people.Add(teacher1);
